@@ -1,0 +1,17 @@
+﻿  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 1842 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Fractal Renderer.vcxproj -> C:\Users\jmchr\Downloads\final_christensen_j_haas_a_gonzalez_a\x64\Release\Fractal Renderer.exe
+  C:\Users\jmchr\Downloads\final_christensen_j_haas_a_gonzalez_a\x64\Release\Fractal Renderer.exe
+  1 File(s) copied
+  C:\Users\jmchr\Downloads\final_christensen_j_haas_a_gonzalez_a\Fractal Renderer\shaders\ray_march_fs.glsl
+  C:\Users\jmchr\Downloads\final_christensen_j_haas_a_gonzalez_a\Fractal Renderer\shaders\ray_march_vs.glsl
+  2 File(s) copied
+  C:\Users\jmchr\Downloads\final_christensen_j_haas_a_gonzalez_a\lib\assimp-vc143-mt.dll
+  C:\Users\jmchr\Downloads\final_christensen_j_haas_a_gonzalez_a\lib\FreeImage.dll
+  C:\Users\jmchr\Downloads\final_christensen_j_haas_a_gonzalez_a\lib\glew32.dll
+  C:\Users\jmchr\Downloads\final_christensen_j_haas_a_gonzalez_a\lib\glfw3.dll
+  4 File(s) copied
+  C:\Users\jmchr\Downloads\final_christensen_j_haas_a_gonzalez_a\Fractal Renderer\assets\AmagoT.bmp
+  1 File(s) copied

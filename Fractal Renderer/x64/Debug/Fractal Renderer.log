@@ -1,0 +1,24 @@
+﻿  Fractal Renderer.cpp
+C:\Users\Jack\Downloads\final_christensen_j_haas_a_gonzalez_a(1)\Fractal Renderer\Fractal Renderer.cpp(26,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\Jack\Downloads\final_christensen_j_haas_a_gonzalez_a(1)\Fractal Renderer\Fractal Renderer.cpp(26,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+C:\Users\Jack\Downloads\final_christensen_j_haas_a_gonzalez_a(1)\Fractal Renderer\Fractal Renderer.cpp(43,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jack\Downloads\final_christensen_j_haas_a_gonzalez_a(1)\Fractal Renderer\Fractal Renderer.cpp(133,60): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Jack\Downloads\final_christensen_j_haas_a_gonzalez_a(1)\Fractal Renderer\Fractal Renderer.cpp(161,60): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Jack\Downloads\final_christensen_j_haas_a_gonzalez_a(1)\Fractal Renderer\Fractal Renderer.cpp(336,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jack\Downloads\final_christensen_j_haas_a_gonzalez_a(1)\Fractal Renderer\Fractal Renderer.cpp(384,60): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Jack\Downloads\final_christensen_j_haas_a_gonzalez_a(1)\Fractal Renderer\Fractal Renderer.cpp(557,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jack\Downloads\final_christensen_j_haas_a_gonzalez_a(1)\Fractal Renderer\Fractal Renderer.cpp(558,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jack\Downloads\final_christensen_j_haas_a_gonzalez_a(1)\Fractal Renderer\Fractal Renderer.cpp(565,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Fractal Renderer.vcxproj -> C:\Users\Jack\Downloads\final_christensen_j_haas_a_gonzalez_a(1)\x64\Debug\Fractal Renderer.exe
+  C:\Users\Jack\Downloads\final_christensen_j_haas_a_gonzalez_a(1)\x64\Debug\Fractal Renderer.exe
+  1 File(s) copied
+  C:\Users\Jack\Downloads\final_christensen_j_haas_a_gonzalez_a(1)\Fractal Renderer\shaders\ray_march_fs.glsl
+  C:\Users\Jack\Downloads\final_christensen_j_haas_a_gonzalez_a(1)\Fractal Renderer\shaders\ray_march_vs.glsl
+  2 File(s) copied
+  C:\Users\Jack\Downloads\final_christensen_j_haas_a_gonzalez_a(1)\lib\assimp-vc143-mt.dll
+  C:\Users\Jack\Downloads\final_christensen_j_haas_a_gonzalez_a(1)\lib\FreeImage.dll
+  C:\Users\Jack\Downloads\final_christensen_j_haas_a_gonzalez_a(1)\lib\glew32.dll
+  C:\Users\Jack\Downloads\final_christensen_j_haas_a_gonzalez_a(1)\lib\glfw3.dll
+  4 File(s) copied
+  C:\Users\Jack\Downloads\final_christensen_j_haas_a_gonzalez_a(1)\Fractal Renderer\assets\AmagoT.bmp
+  1 File(s) copied

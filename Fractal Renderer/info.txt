@@ -1,0 +1,4 @@
+Vendor: NVIDIA Corporation
+Renderer: NVIDIA GeForce RTX 4090/PCIe/SSE2
+Version: 4.6.0 NVIDIA 536.99
+GLSL Version: 4.60 NVIDIA
